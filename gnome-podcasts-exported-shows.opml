@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<opml version="2.0">
+  <head>
+    <title>GNOME Podcasts Subscriptions</title>
+  </head>
+  <body>
+    <outline text="2.5 Admins" title="2.5 Admins" type="rss" xmlUrl="https://2.5admins.com/feed/podcast" htmlUrl="https://2.5admins.com/" />
+    <outline text="Back to Work" title="Back to Work" type="rss" xmlUrl="https://feeds.fireside.fm/backtowork/rss" htmlUrl="https://www.backtowork.limo/" />
+    <outline text="Bad Voltage" title="Bad Voltage" type="rss" xmlUrl="https://www.badvoltage.org/feed/mp3/" htmlUrl="https://www.badvoltage.org/" />
+    <outline text="CodePen Radio" title="CodePen Radio" type="rss" xmlUrl="https://blog.codepen.io/feed/podcast/" htmlUrl="https://blog.codepen.io/" />
+    <outline text="Destination Linux" title="Destination Linux" type="rss" xmlUrl="https://destinationlinux.org/feed/mp3" htmlUrl="https://destinationlinux.org/" />
+    <outline text="Hippies &amp; Cowboys Podcast" title="Hippies &amp; Cowboys Podcast" type="rss" xmlUrl="https://anchor.fm/s/10daf1c8/podcast/rss" htmlUrl="https://thehippiesandcowboys.com/" />
+    <outline text="LINUX Unplugged" title="LINUX Unplugged" type="rss" xmlUrl="https://feeds.fireside.fm/linuxunplugged/rss" htmlUrl="https://linuxunplugged.com/" />
+    <outline text="Late Night Linux All Episodes" title="Late Night Linux All Episodes" type="rss" xmlUrl="https://latenightlinux.com/feed/all" htmlUrl="https://latenightlinux.com/" />
+    <outline text="Linux Action News" title="Linux Action News" type="rss" xmlUrl="https://feeds.fireside.fm/linuxactionnews/rss" htmlUrl="https://linuxactionnews.com/" />
+    <outline text="Linux Out Loud" title="Linux Out Loud" type="rss" xmlUrl="https://feeds.fireside.fm/dlnxtend/rss" htmlUrl="https://dlnxtend.com/" />
+    <outline text="Post Status Podcasts" title="Post Status Podcasts" type="rss" xmlUrl="https://feeds.simplecast.com/2JE9sc8P" htmlUrl="https://poststatus.com/podcasts" />
+    <outline text="Press This WordPress Community Podcast" title="Press This WordPress Community Podcast" type="rss" xmlUrl="https://feeds.redcircle.com/0c33a225-47e8-4b48-aae7-d1eff5ea2470" htmlUrl="https://redcircle.com/shows/press-this-wordpress-community-podcast" />
+    <outline text="Self-Hosted" title="Self-Hosted" type="rss" xmlUrl="https://feeds.fireside.fm/selfhosted/rss" htmlUrl="https://selfhosted.show/" />
+    <outline text="ShopTalk" title="ShopTalk" type="rss" xmlUrl="https://shoptalkshow.com/feed/podcast/" htmlUrl="https://shoptalkshow.com/" />
+    <outline text="Syntax - Tasty Web Development Treats" title="Syntax - Tasty Web Development Treats" type="rss" xmlUrl="https://feed.syntax.fm/rss" htmlUrl="https://syntax.fm/" />
+    <outline text="The Clearleft Podcast" title="The Clearleft Podcast" type="rss" xmlUrl="https://podcast.clearleft.com/podcast.xml" htmlUrl="https://podcast.clearleft.com/" />
+    <outline text="This Week in Tech (Audio)" title="This Week in Tech (Audio)" type="rss" xmlUrl="https://feeds.twit.tv/twit.xml" htmlUrl="https://twit.tv/shows/this-week-in-tech" />
+    <outline text="WP Briefing" title="WP Briefing" type="rss" xmlUrl="https://wordpress.org/news/feed/podcast" htmlUrl="https://wordpress.org/news/" />
+  </body>
+</opml>
