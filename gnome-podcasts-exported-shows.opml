@@ -6,6 +6,7 @@
   <body>
     <outline text="2.5 Admins" title="2.5 Admins" type="rss" xmlUrl="https://2.5admins.com/feed/podcast" htmlUrl="https://2.5admins.com/" />
     <outline text="Back to Work" title="Back to Work" type="rss" xmlUrl="https://feeds.fireside.fm/backtowork/rss" htmlUrl="https://www.backtowork.limo/" />
+    <outline text="Bad Voltage" title="Bad Voltage" type="rss" xmlUrl="https://www.badvoltage.org/feed/mp3/" htmlUrl="https://www.badvoltage.org/" />
     <outline text="CodePen Radio" title="CodePen Radio" type="rss" xmlUrl="https://blog.codepen.io/feed/podcast/" htmlUrl="https://blog.codepen.io/" />
     <outline text="Destination Linux" title="Destination Linux" type="rss" xmlUrl="https://destinationlinux.org/feed/mp3" htmlUrl="https://destinationlinux.org/" />
     <outline text="Hippies &amp; Cowboys Podcast" title="Hippies &amp; Cowboys Podcast" type="rss" xmlUrl="https://anchor.fm/s/10daf1c8/podcast/rss" htmlUrl="https://thehippiesandcowboys.com/" />
