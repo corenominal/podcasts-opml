@@ -5,6 +5,6 @@
 
 This repo contains my podcasts OPML file, freshly exported from [GNOME Podcasts](https://flathub.org/apps/details/org.gnome.Podcasts).
 
-A webhook is enabled on this repo that contacts a REST API endpoint on my website and updates [my podcasts page](https://corenominal.com/podcasts/) whenever I import a fresh copy of my OPML file.
+A [webhook](https://docs.github.com/en/developers/webhooks-and-events/webhooks) is enabled on this repo that contacts a REST API endpoint on my website and updates [my podcasts page](https://corenominal.com/podcasts/) whenever I import a fresh copy of my OPML file.
 
 If you'd like to recommend any podcasts, please feel free to [open a new issue](https://github.com/corenominal/podcasts-opml/issues/new), or [leave a comment here](https://corenominal.com/podcasts/#respond).
