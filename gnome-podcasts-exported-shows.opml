@@ -22,5 +22,6 @@
     <outline text="The Clearleft Podcast" title="The Clearleft Podcast" type="rss" xmlUrl="https://podcast.clearleft.com/podcast.xml" htmlUrl="https://podcast.clearleft.com/" />
     <outline text="This Week in Tech (Audio)" title="This Week in Tech (Audio)" type="rss" xmlUrl="https://feeds.twit.tv/twit.xml" htmlUrl="https://twit.tv/shows/this-week-in-tech" />
     <outline text="WP Briefing" title="WP Briefing" type="rss" xmlUrl="https://wordpress.org/news/feed/podcast" htmlUrl="https://wordpress.org/news/" />
+    <outline text="Whiskey Web and Whatnot" title="Whiskey Web and Whatnot" type="rss" xmlUrl="https://feeds.megaphone.fm/PODRYL5396410253" htmlUrl="https://shipshape.io/" />
   </body>
 </opml>
