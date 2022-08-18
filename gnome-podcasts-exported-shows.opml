@@ -10,6 +10,7 @@
     <outline text="CodePen Radio" title="CodePen Radio" type="rss" xmlUrl="https://blog.codepen.io/feed/podcast/" htmlUrl="https://blog.codepen.io/" />
     <outline text="Coder Radio" title="Coder Radio" type="rss" xmlUrl="https://feeds.fireside.fm/coder/rss" htmlUrl="https://coder.show/" />
     <outline text="Destination Linux" title="Destination Linux" type="rss" xmlUrl="https://destinationlinux.org/feed/mp3" htmlUrl="https://destinationlinux.org/" />
+    <outline text="Hacker Public Radio" title="Hacker Public Radio" type="rss" xmlUrl="http://hackerpublicradio.org/hpr_rss.php" htmlUrl="http://hackerpublicradio.org/about.php" />
     <outline text="Hippies &amp; Cowboys Podcast" title="Hippies &amp; Cowboys Podcast" type="rss" xmlUrl="https://anchor.fm/s/10daf1c8/podcast/rss" htmlUrl="https://thehippiesandcowboys.com/" />
     <outline text="LINUX Unplugged" title="LINUX Unplugged" type="rss" xmlUrl="https://feeds.fireside.fm/linuxunplugged/rss" htmlUrl="https://linuxunplugged.com/" />
     <outline text="Late Night Linux All Episodes" title="Late Night Linux All Episodes" type="rss" xmlUrl="https://latenightlinux.com/feed/all" htmlUrl="https://latenightlinux.com/" />
