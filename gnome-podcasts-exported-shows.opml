@@ -16,6 +16,7 @@
     <outline text="Linux Action News" title="Linux Action News" type="rss" xmlUrl="https://feeds.fireside.fm/linuxactionnews/rss" htmlUrl="https://linuxactionnews.com/" />
     <outline text="Linux Out Loud" title="Linux Out Loud" type="rss" xmlUrl="https://feeds.fireside.fm/dlnxtend/rss" htmlUrl="https://dlnxtend.com/" />
     <outline text="Office Hours" title="Office Hours" type="rss" xmlUrl="https://feeds.fireside.fm/office/rss" htmlUrl="http://www.officehours.hair/" />
+    <outline text="Permanently Moved" title="Permanently Moved" type="rss" xmlUrl="https://feeds.libsyn.com/119971/rss" htmlUrl="https://thejaymo.net/permanentlymoved/" />
     <outline text="Post Status Podcasts" title="Post Status Podcasts" type="rss" xmlUrl="https://feeds.simplecast.com/2JE9sc8P" htmlUrl="https://poststatus.com/podcasts" />
     <outline text="Press This WordPress Community Podcast" title="Press This WordPress Community Podcast" type="rss" xmlUrl="https://feeds.redcircle.com/0c33a225-47e8-4b48-aae7-d1eff5ea2470" htmlUrl="https://redcircle.com/shows/press-this-wordpress-community-podcast" />
     <outline text="Self-Hosted" title="Self-Hosted" type="rss" xmlUrl="https://feeds.fireside.fm/selfhosted/rss" htmlUrl="https://selfhosted.show/" />
@@ -23,8 +24,9 @@
     <outline text="Syntax - Tasty Web Development Treats" title="Syntax - Tasty Web Development Treats" type="rss" xmlUrl="https://feed.syntax.fm/rss" htmlUrl="https://syntax.fm/" />
     <outline text="The Clearleft Podcast" title="The Clearleft Podcast" type="rss" xmlUrl="https://podcast.clearleft.com/podcast.xml" htmlUrl="https://podcast.clearleft.com/" />
     <outline text="The Linux Cast" title="The Linux Cast" type="rss" xmlUrl="https://anchor.fm/s/a5967a8/podcast/rss" htmlUrl="https://thelinuxcast.org/" />
+    <outline text="The Linux Link Tech Show MP3 Feed" title="The Linux Link Tech Show MP3 Feed" type="rss" xmlUrl="http://feeds.feedburner.com/TheLinuxLinkTechShowMp3Feed" htmlUrl="http://www.tllts.org/" />
     <outline text="This Week in Tech (Audio)" title="This Week in Tech (Audio)" type="rss" xmlUrl="https://feeds.twit.tv/twit.xml" htmlUrl="https://twit.tv/shows/this-week-in-tech" />
-    <outline text="WP Briefing" title="WP Briefing" type="rss" xmlUrl="https://wordpress.org/news/feed/podcast" htmlUrl="https://wordpress.org/news/" />
+    <outline text="WP Briefing - A WordPress Podcast" title="WP Briefing - A WordPress Podcast" type="rss" xmlUrl="https://wordpress.org/news/feed/podcast" htmlUrl="https://wordpress.org/news/" />
     <outline text="Whiskey Web and Whatnot" title="Whiskey Web and Whatnot" type="rss" xmlUrl="https://feeds.megaphone.fm/PODRYL5396410253" htmlUrl="https://shipshape.io/" />
   </body>
 </opml>
